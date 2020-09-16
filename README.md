@@ -34,7 +34,7 @@ Syllabus:
   ∗ particle MCMC
 
 
-Relevant introductory graduate textbooks and edited volumes.
+Relevant introductory graduate textbooks and edited volumes:
 
   ∗ Robert and Casella (1999) Monte Carlo Statistical Methods, Springer 
   
@@ -58,7 +58,7 @@ Format:
 
 *  Lecture/computer session/tutorial/discussion hours split: 10/0 /0 /0 /0
 
-Lecturer details
+Lecturer details:
 
   * Nikolas Kantas, Imperial College
  
