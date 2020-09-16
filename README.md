@@ -8,7 +8,10 @@ This course is under construction to be delivering in Oct 2020 for [LTCC](http:/
 # Introduction
 
 
-![basics of Monte Carlo](http://wwwf.imperial.ac.uk/~nkantas/slides1.pdf)
+![basics of Monte Carlo](http://wwwf.imperial.ac.uk/~nkantas/slides1.pdf "link to slides 1")
+
+<embed src="http://wwwf.imperial.ac.uk/~nkantas/slides1.pdf" type="application/pdf">
+
 
 # Outline
 
