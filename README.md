@@ -7,51 +7,57 @@ This course is under construction to be delivering in Oct 2020 for [LTCC](http:/
 
 # Introduction
 
+We will split the introduction into two parts:
 
-![basics of Monte Carlo](http://wwwf.imperial.ac.uk/~nkantas/slides1.pdf "link to slides 1")
+- Introduction to Monte Carlo  [slides](http://wwwf.imperial.ac.uk/~nkantas/slides1.pdf) and video (link TBA soon)
 
-<embed src="http://wwwf.imperial.ac.uk/~nkantas/slides1.pdf" type="application/pdf">
+- Basic Monte Carlo methods (Rejection Sampling and Importance Sampling)
+
+- Introduction to Markov Chain Monte Carlo [slides](http://wwwf.imperial.ac.uk/~nkantas/slides2.pdf)
 
 
-# Outline
+# Markov Chain Monte Carlo
 
-* Introduction to simulation
-  
-  ∗ basics of Monte Carlo 
-  
-  ∗ variance reduction
+We will mainly discuss various topics and provide some some basics on theory and practice.
 
-* Importance Sampling
+- Metropolis-Hastings, Gibbs sampling 
   
-  ∗ some basics, asymptotic variance, 
-  
-  ∗ sequential importance sampling
+- Markov Chain Theory related to MCMC
 
-* Markov Chain Monte Carlo (MCMC)
-  
-  ∗ Metropolis-Hastings, Gibbs sampling 
-  
-  ∗ some basics on theory and practice 
 
-* Sequential Monte Carlo (SMC)
+# Sequential Monte Carlo (SMC)
   
-  ∗ particle filtering for state space models
+  - particle filtering for state space models
   
-  ∗ sampling for fixed dimensional state spaces
+  - sampling for fixed dimensional state spaces
   
-  ∗ particle MCMC
+  - particle MCMC
+  
+# LTTC course related stuff
+
+## Coursework
+
+Coursework Instructions [slides](http://wwwf.imperial.ac.uk/~nkantas/slides4.pdf)
+
+Deadline: 5 December (a month)
+
+Page limit: 10 pages, recommended length around 6-8 pages
+
+Submit by email to n.kantas at imperial.ac.uk _*using subject: LTCC coursework submission*_
+  
+## References   
   
 Relevant introductory graduate textbooks and edited volumes:
 
-  ∗ Robert and Casella (1999) Monte Carlo Statistical Methods, Springer 
+  - Robert and Casella (1999) Monte Carlo Statistical Methods, Springer 
   
-  ∗ Liu (2001) Monte Carlo strategies in scientific computing, Springer.
+  - Liu (2001) Monte Carlo strategies in scientific computing, Springer.
   
-  ∗ Doucet, de Freitas, Gordon (2001) Sequential Monte Carlo Methods in Practice, Springer.
+  - Doucet, de Freitas, Gordon (2001) Sequential Monte Carlo Methods in Practice, Springer.
   
-  ∗ Gillks, Richardson, Spiegelhalter (1996) Markov Chain Monte Carlo in Practice, Chapman Hall
+  - Gillks, Richardson, Spiegelhalter (1996) Markov Chain Monte Carlo in Practice, Chapman Hall
 
-Prerequisites: 
+## Prerequisites: 
 
   ∗ Basic knowledge of Statistics and Probability. 
   
@@ -59,13 +65,13 @@ Prerequisites:
   
   ∗ Familiarity and exposure to Markov Chains or stochastic processes will be useful.
 
-Format:
+## Format:
 
   * There will be optional exersizes or small courseworks posed as homeworks. There will be no separate problem sheets. The problems will require the use of some programming.
 
 *  Lecture/computer session/tutorial/discussion hours split: 10/0 /0 /0 /0
 
-Lecturer details:
+## Lecturer contact details:
 
   * Nikolas Kantas, Imperial College
  
