@@ -3,9 +3,13 @@ This course will provide an overview of Monte Carlo methods when used for proble
 
 Keywords: Simulation, Variance reduction, Monte Carlo methods, Importance Sampling, Markov Chain Monte Carlo, Sequential Monte Carlo
 
-Here is the official link: http://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/
+This course is under construction to be delivering in Oct 2020 for [LTCC](http://www.ltcc.ac.uk/). Here is the official link of the course: http://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/
 
-Syllabus:
+# Introduction
+
+basics of Monte Carlo
+
+# Outline
 
 * Introduction to simulation
   
