@@ -1,5 +1,5 @@
 # LTCC-Advanced-Computational-Methods-in-Statistics
-Advanced LTCC course in StatisticsThis course will provide an overview of Monte Carlo methods when used for problems in Statistics. After an introduction to simulation, its purpose and challenges, we will cover in more detail Importance Sampling, Markov Chain Monte Carlo and Sequential Monte Carlo. Whilst the main focus will be on the methodology and its relevance to applications, we will often mention relevant theoretical results and their importance for problems in practice. 
+This course will provide an overview of Monte Carlo methods when used for problems in Statistics. After an introduction to simulation, its purpose and challenges, we will cover in more detail Importance Sampling, Markov Chain Monte Carlo and Sequential Monte Carlo. Whilst the main focus will be on the methodology and its relevance to applications, we will often mention relevant theoretical results and their importance for problems in practice. 
 
 Keywords: Simulation, Variance reduction, Monte Carlo methods, Importance Sampling, Markov Chain Monte Carlo, Sequential Monte Carlo
 
@@ -32,8 +32,7 @@ Syllabus:
   ∗ sampling for fixed dimensional state spaces
   
   ∗ particle MCMC
-
-
+  
 Relevant introductory graduate textbooks and edited volumes:
 
   ∗ Robert and Casella (1999) Monte Carlo Statistical Methods, Springer 
