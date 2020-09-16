@@ -36,16 +36,16 @@ Syllabus:
 
 Relevant introductory graduate textbooks and edited volumes.
 
-∗ Robert and Casella (1999) Monte Carlo Statistical Methods, Springer 
-∗ Liu (2001) Monte Carlo strategies in scientific computing, Springer.
-∗ Doucet, de Freitas, Gordon (2001) Sequential Monte Carlo Methods in Practice, Springer.
-∗ Gillks, Richardson, Spiegelhalter (1996) Markov Chain Monte Carlo in Practice, Chapman Hall
+  ∗ Robert and Casella (1999) Monte Carlo Statistical Methods, Springer 
+  ∗ Liu (2001) Monte Carlo strategies in scientific computing, Springer.
+  ∗ Doucet, de Freitas, Gordon (2001) Sequential Monte Carlo Methods in Practice, Springer.
+  ∗ Gillks, Richardson, Spiegelhalter (1996) Markov Chain Monte Carlo in Practice, Chapman Hall
 
 Prerequisites: 
 
-∗ Basic knowledge of Statistics and Probability. 
-∗ Basic knowledge of programming in any language appropriate for scientific computing.
-∗ Familiarity and exposure to Markov Chains or stochastic processes will be useful.
+  ∗ Basic knowledge of Statistics and Probability. 
+  ∗ Basic knowledge of programming in any language appropriate for scientific computing.
+  ∗ Familiarity and exposure to Markov Chains or stochastic processes will be useful.
 
 Format:
 
