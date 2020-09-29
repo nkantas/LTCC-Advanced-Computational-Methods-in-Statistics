@@ -35,11 +35,11 @@ We will mainly discuss various topics and provide some some basics on theory and
   
   - particle MCMC
   
-# LTTC course related stuff
+# Course organisation and assessment
 
 ## Coursework
 
-Coursework Instructions [slides](http://wwwf.imperial.ac.uk/~nkantas/slides4.pdf)
+Coursework Instructions [slides](link TBA)
 
 Deadline: around 5 December (about a month)
 
@@ -59,17 +59,26 @@ Relevant introductory graduate textbooks and edited volumes:
   
   - Gillks, Richardson, Spiegelhalter (1996) Markov Chain Monte Carlo in Practice, Chapman Hall
 
+## Older lecture slides
+
+For you convenience i am listing the slides used in previous years. You might notice this year's course has been broken down and changed a bit.
+
+ - [Slides 1](http://wwwf.imperial.ac.uk/~nkantas/slides1.pdf)
+ - [Slides 2](http://wwwf.imperial.ac.uk/~nkantas/slides2.pdf)
+ - [Slides 3](http://wwwf.imperial.ac.uk/~nkantas/slides3.pdf)
+ - [Slides 4](http://wwwf.imperial.ac.uk/~nkantas/slides4.pdf)
+
 ## Prerequisites: 
 
  - Basic knowledge of Statistics and Probability. 
   
-  - Basic knowledge of programming in any language appropriate for scientific computing.
+ - Basic knowledge of programming in any language appropriate for scientific computing.
   
-  - Familiarity and exposure to Markov Chains or stochastic processes will be useful.
+ - Familiarity and exposure to Markov Chains or stochastic processes will be useful.
 
 ## Format:
 
-- There will be optional exersizes or small courseworks posed as homeworks. There will be no separate problem sheets. The problems will require the use of some programming.
+- There will be optional exercises or small courseworks posed as quizes or homeworks. There will be no separate problem sheets. Some problems will require the use of some programming.
 
 - Lecture/computer session/tutorial/discussion hours split: 10/0 /0 /0 /0
 
