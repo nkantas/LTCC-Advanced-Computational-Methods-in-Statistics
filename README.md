@@ -30,9 +30,11 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 # Sequential Monte Carlo (SMC)
   
-  - particle filtering for state space models
+  - Sequential Importance sampling
   
-  - sampling for fixed dimensional state spaces
+  - particle filtering 
+  
+  - SMC sampling for fixed dimensional state spaces
   
   - parameter estimation methods
       - Bayesian methods and particle MCMC
