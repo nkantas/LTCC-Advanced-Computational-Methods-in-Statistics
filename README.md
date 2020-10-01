@@ -16,14 +16,14 @@ We will split the introduction into two parts:
 
 - Basic Indirect Sampling methods (Rejection Sampling and Importance Sampling)  [slides](https://teams.microsoft.com/l/file/28E1C4B3-9220-44E4-B09E-42A8DDD37AD6?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&fileType=pdf&objectUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA%2FClass%20Materials%2Fintro_mc2.pdf&baseUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA&serviceName=teams&threadId=19:d39771cebf2b4f62ba91d635a23cb872@thread.tacv2&groupId=517499f9-9a41-40ed-8ea4-8d2b42d3cd4f) and [video](https://www.youtube.com/watch?v=m5Nt3GQFj3Y)
 
-- Introduction to Markov Chain Monte Carlo [slides](http://wwwf.imperial.ac.uk/~nkantas/slides2.pdf)
-
-
 # Markov Chain Monte Carlo
 
 We will mainly discuss various topics and provide some some basics on theory and practice.
 
-- Metropolis-Hastings, Gibbs sampling 
+- Introduction to Markov Chain Monte Carlo 
+
+  - Metropolis-Hastings, Gibbs sampling, diagnostics 
+  - [slides](http://wwwf.imperial.ac.uk/~nkantas/slides2.pdf)
   
 - Markov Chain Theory related to MCMC
 
