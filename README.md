@@ -22,11 +22,13 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 - Introduction to Markov Chain Monte Carlo 
 
-  - Metropolis-Hastings, Gibbs sampling, diagnostics 
-  - [slides](http://wwwf.imperial.ac.uk/~nkantas/slides2.pdf)
+  - Metropolis-Hastings, Gibbs sampling, diagnostics [video](https://youtu.be/gCbzRfAA70g)
+  - [older slides](http://wwwf.imperial.ac.uk/~nkantas/slides2.pdf) to be updated soon
   
-- Markov Chain Theory related to MCMC
-
+- More advanced topics
+  - Understanding MCMC from basics of Markov Chain theory
+  - Diffusions, MCMC and the 0.234 rule of thumb
+  - Computing the normalising constant, Adaptive MCMC, Pseudo marginal MCMC
 
 # Sequential Monte Carlo (SMC)
   
