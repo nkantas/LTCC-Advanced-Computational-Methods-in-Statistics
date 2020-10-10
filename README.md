@@ -21,14 +21,15 @@ We will split the introduction into two parts:
 We will mainly discuss various topics and provide some some basics on theory and practice.
 
 - Introduction to Markov Chain Monte Carlo 
-
   - Metropolis-Hastings, Gibbs sampling, diagnostics 
-  - [video](https://youtu.be/gCbzRfAA70g) and [slides](https://teams.microsoft.com/l/file/7C156E6C-2822-414F-93C4-1DB709C66750?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&fileType=pdf&objectUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA%2FClass%20Materials%2Fmcmc_intro.pdf&baseUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA&serviceName=teams&threadId=19:d39771cebf2b4f62ba91d635a23cb872@thread.tacv2&groupId=517499f9-9a41-40ed-8ea4-8d2b42d3cd4f) 
-  
-- More advanced topics
+  - [video](https://youtu.be/gCbzRfAA70g) and [slides](https://teams.microsoft.com/l/file/7C156E6C-2822-414F-93C4-1DB709C66750?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&fileType=pdf&objectUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA%2FClass%20Materials%2Fmcmc_intro.pdf&baseUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA&serviceName=teams&threadId=19:d39771cebf2b4f62ba91d635a23cb872@thread.tacv2&groupId=517499f9-9a41-40ed-8ea4-8d2b42d3cd4f)   
+- Some methodology 
+  - Computing the normalising constant, Adaptive MCMC, Pseudo marginal MCMC
+  - [video](https://youtu.be/M_R-IiiSF4Q) and slides tba
+- Theoretical topics
   - Understanding MCMC from basics of Markov Chain theory
   - Diffusions, MCMC and the 0.234 rule of thumb
-  - Computing the normalising constant, Adaptive MCMC, Pseudo marginal MCMC
+   
 
 # Sequential Monte Carlo (SMC)
   
