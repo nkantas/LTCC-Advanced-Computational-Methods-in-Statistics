@@ -12,9 +12,9 @@ Immediately below you can find the course outline together the with links to sli
 
 We will split the introduction into two parts:
 
-- Introduction to Monte Carlo  [slides](https://teams.microsoft.com/l/file/2864FD7D-545D-4448-B8E4-ECB7AA3EC2FD?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&fileType=pdf&objectUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA%2FClass%20Materials%2Fintro_mc.pdf&baseUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA&serviceName=teams&threadId=19:d39771cebf2b4f62ba91d635a23cb872@thread.tacv2&groupId=517499f9-9a41-40ed-8ea4-8d2b42d3cd4f) and [video](https://www.youtube.com/watch?v=uqDItPClDiM)
+- Introduction to Monte Carlo  [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc.pdf) and [video](https://www.youtube.com/watch?v=uqDItPClDiM)
 
-- Basic Indirect Sampling methods (Rejection Sampling and Importance Sampling)  [slides](https://teams.microsoft.com/l/file/28E1C4B3-9220-44E4-B09E-42A8DDD37AD6?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&fileType=pdf&objectUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA%2FClass%20Materials%2Fintro_mc2.pdf&baseUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA&serviceName=teams&threadId=19:d39771cebf2b4f62ba91d635a23cb872@thread.tacv2&groupId=517499f9-9a41-40ed-8ea4-8d2b42d3cd4f) and [video](https://www.youtube.com/watch?v=m5Nt3GQFj3Y)
+- Basic Indirect Sampling methods (Rejection Sampling and Importance Sampling)  [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc2.pdf) and [video](https://www.youtube.com/watch?v=m5Nt3GQFj3Y)
 
 # Markov Chain Monte Carlo
 
@@ -22,13 +22,14 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 - Introduction to Markov Chain Monte Carlo 
   - Metropolis-Hastings, Gibbs sampling, diagnostics 
-  - [video](https://youtu.be/gCbzRfAA70g) and [slides](https://teams.microsoft.com/l/file/7C156E6C-2822-414F-93C4-1DB709C66750?tenantId=2b897507-ee8c-4575-830b-4f8267c3d307&fileType=pdf&objectUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA%2FClass%20Materials%2Fmcmc_intro.pdf&baseUrl=https%3A%2F%2Fimperiallondon.sharepoint.com%2Fsites%2FLTCCAdvancedComputationalMethodsinStatistics-MA&serviceName=teams&threadId=19:d39771cebf2b4f62ba91d635a23cb872@thread.tacv2&groupId=517499f9-9a41-40ed-8ea4-8d2b42d3cd4f)   
+  - [video](https://youtu.be/gCbzRfAA70g) and [slides](http://wwwf.imperial.ac.uk/~nkantas/mcmc_intro.pdf)   
 - Some more methodology 
   - Computing the normalising constant, Adaptive MCMC, Pseudo marginal MCMC
-  - [video](https://youtu.be/M_R-IiiSF4Q) and slides tba
+  - [video](https://youtu.be/M_R-IiiSF4Q) and [slides](http://wwwf.imperial.ac.uk/~nkantas/mcmc_extensions.pdf)
 - Theoretical topics
   - Understanding MCMC from basics of Markov Chain theory
   - Diffusions, MCMC and the 0.234 rule of thumb
+  - [video]( TBA ) and [slides]( TBA )
    
 
 # Sequential Monte Carlo (SMC)
