@@ -68,14 +68,14 @@ Relevant introductory graduate textbooks and edited volumes:
   
   - Gillks, Richardson, Spiegelhalter (1996) Markov Chain Monte Carlo in Practice, Chapman Hall
 
-## Older lecture slides
+<!---## Older lecture slides
 
 For you convenience i am listing the slides used in previous years. You might notice this year's course has been broken down and changed a bit.
 
  - [Slides 1](http://wwwf.imperial.ac.uk/~nkantas/slides1.pdf)
  - [Slides 2](http://wwwf.imperial.ac.uk/~nkantas/slides2.pdf)
  - [Slides 3](http://wwwf.imperial.ac.uk/~nkantas/slides3.pdf)
- - [Slides 4](http://wwwf.imperial.ac.uk/~nkantas/slides4.pdf)
+ - [Slides 4](http://wwwf.imperial.ac.uk/~nkantas/slides4.pdf)-->
 
 ## Prerequisites: 
 
