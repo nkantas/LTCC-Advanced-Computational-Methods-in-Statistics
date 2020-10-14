@@ -29,7 +29,7 @@ We will mainly discuss various topics and provide some some basics on theory and
 - Theoretical topics
   - Understanding MCMC from basics of Markov Chain theory
   - Diffusions, MCMC and the 0.234 rule of thumb
-  - [video] TBA  and [slides] TBA 
+  - [video] TBA  and [slides](http://wwwf.imperial.ac.uk/~nkantas/mcmc_theory.pdf) 
    
 
 # Sequential Monte Carlo (SMC)
