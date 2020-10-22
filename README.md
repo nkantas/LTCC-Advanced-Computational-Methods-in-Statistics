@@ -34,7 +34,7 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 # Sequential Monte Carlo (SMC)
   
-  - Sequential Importance sampling [slides] (http://wwwf.imperial.ac.uk/~nkantas/intro_mc3.pdf) and [video] tba
+  - Sequential Importance sampling [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc3.pdf) and [video] tba
   
   - Hidden Markov models and filtering
   
