@@ -36,7 +36,7 @@ We will mainly discuss various topics and provide some some basics on theory and
   
   - Sequential Importance sampling [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc3.pdf) and [video](https://youtu.be/zMIdR_Df7oQ)
   
-  - Hidden Markov models and filtering
+  - Hidden Markov models and filtering [slides](http://wwwf.imperial.ac.uk/~nkantas/HMMs_Filtering.pdf) and [video](https://youtu.be/GnlWK1erBmc)
   
   - Particle filtering
   
@@ -50,7 +50,7 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 ## Coursework
 
-Coursework Instructions [slides](link TBA)
+Coursework Instructions [slides] (link TBA)
 
 Deadline: around 5 December (about a month)
 
