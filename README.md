@@ -38,13 +38,16 @@ We will mainly discuss various topics and provide some some basics on theory and
   
   - Hidden Markov models and filtering [slides](http://wwwf.imperial.ac.uk/~nkantas/HMMs_Filtering.pdf) and [video](https://youtu.be/GnlWK1erBmc)
   
-  - Particle filtering
-  
-  - SMC sampling for fixed dimensional state spaces
+  - Introduction to Particle filtering [slides](http://wwwf.imperial.ac.uk/~nkantas/Intro_PF.pdf) and [video](https://youtu.be/Vkc3lqs1YQo)
+
   
   - parameter estimation methods
       - Bayesian methods and particle MCMC
       - likelihood methods
+      
+  - Other topics to be added soon
+     - SMC sampling for fixed dimensional state spaces
+     - The Kalman filter and extensions
   
 # Course organisation and assessment
 
