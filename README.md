@@ -65,6 +65,8 @@ Submit by email to n.kantas at imperial.ac.uk _*using subject: LTCC coursework s
   
 Relevant introductory graduate textbooks and edited volumes:
 
+  - Chopin, N., & Papaspiliopoulos, O. (2020). An introduction to sequential Monte Carlo.
+  
   - Robert and Casella (1999) Monte Carlo Statistical Methods, Springer 
   
   - Liu (2001) Monte Carlo strategies in scientific computing, Springer.
