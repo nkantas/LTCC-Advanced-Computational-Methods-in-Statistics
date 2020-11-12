@@ -40,6 +40,7 @@ We will mainly discuss various topics and provide some some basics on theory and
   
   - Introduction to Particle filtering [slides](http://wwwf.imperial.ac.uk/~nkantas/Intro_PF.pdf) and [video](https://youtu.be/Vkc3lqs1YQo)
 
+  - Particle Smoothing [slides](http://wwwf.imperial.ac.uk/~nkantas/Particle_Smoothing.pdf) and [video](https://youtu.be/-1XeSWNOuRk)
   
   - parameter estimation methods
       - Bayesian methods and particle MCMC
@@ -55,7 +56,7 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 Coursework Instructions [slides] (link TBA)
 
-Deadline: around 5 December (about a month)
+Deadline: around 8 December (about a month)
 
 Page limit: 10 pages, recommended length around 6-8 pages
 
