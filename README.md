@@ -43,7 +43,7 @@ We will mainly discuss various topics and provide some some basics on theory and
   - Particle Smoothing [slides](http://wwwf.imperial.ac.uk/~nkantas/Particle_Smoothing.pdf) and [video](https://youtu.be/-1XeSWNOuRk)
   
   - parameter estimation methods
-      - Bayesian methods and particle MCMC
+      - Bayesian methods and particle MCMC [slides](http://wwwf.imperial.ac.uk/~nkantas/BayesianHMM.pdf) and [video](https://youtu.be/_Rl27OoCWKs)
       - likelihood methods
       
   - Other topics to be added soon
