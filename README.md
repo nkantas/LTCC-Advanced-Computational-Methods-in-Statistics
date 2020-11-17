@@ -54,13 +54,13 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 ## Coursework
 
-Coursework Instructions [slides] (link TBA)
+Coursework Instructions [slides](http://wwwf.imperial.ac.uk/~nkantas/Coursework.pdf)
 
 Deadline: around 8 December (about a month)
 
 Page limit: 10 pages, recommended length around 6-8 pages
 
-Submit by email to n.kantas at imperial.ac.uk _*using subject: LTCC coursework submission*_
+Submit in MS Teams assingment, if there are any issues email to n.kantas at imperial.ac.uk _*using subject: LTCC coursework submission*_
   
 ## References   
   
@@ -103,7 +103,7 @@ For you convenience i am listing the slides used in previous years. You might no
 
   * Nikolas Kantas, Imperial College
  
-  * Email: n.kantas@imperial.ac.uk
+  * Email: n.kantas at imperial.ac.uk
 
   * website: http://wwwf.imperial.ac.uk/~nkantas/
 
