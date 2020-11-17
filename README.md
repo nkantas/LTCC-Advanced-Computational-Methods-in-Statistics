@@ -34,17 +34,17 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 # Sequential Monte Carlo (SMC)
   
-  - Sequential Importance sampling [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc3.pdf) and [video](https://youtu.be/zMIdR_Df7oQ)
+  - Sequential Importance sampling: [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc3.pdf) and [video](https://youtu.be/zMIdR_Df7oQ)
   
-  - Hidden Markov models and filtering [slides](http://wwwf.imperial.ac.uk/~nkantas/HMMs_Filtering.pdf) and [video](https://youtu.be/GnlWK1erBmc)
+  - Hidden Markov models and filtering: [slides](http://wwwf.imperial.ac.uk/~nkantas/HMMs_Filtering.pdf) and [video](https://youtu.be/GnlWK1erBmc)
   
-  - Introduction to Particle filtering [slides](http://wwwf.imperial.ac.uk/~nkantas/Intro_PF.pdf) and [video](https://youtu.be/Vkc3lqs1YQo)
+  - Introduction to Particle filtering: [slides](http://wwwf.imperial.ac.uk/~nkantas/Intro_PF.pdf) and [video](https://youtu.be/Vkc3lqs1YQo)
 
-  - Particle Smoothing [slides](http://wwwf.imperial.ac.uk/~nkantas/Particle_Smoothing.pdf) and [video](https://youtu.be/-1XeSWNOuRk)
+  - Particle Smoothing: [slides](http://wwwf.imperial.ac.uk/~nkantas/Particle_Smoothing.pdf) and [video](https://youtu.be/-1XeSWNOuRk)
   
-  - parameter estimation methods
-      - Bayesian methods and particle MCMC [slides](http://wwwf.imperial.ac.uk/~nkantas/BayesianHMM.pdf) and [video](https://youtu.be/_Rl27OoCWKs)
-      - likelihood methods
+  - Parameter estimation methods for static parameters of Hidden Markov models
+      - Bayesian methods and particle MCMC: [slides](http://wwwf.imperial.ac.uk/~nkantas/BayesianHMM.pdf) and [video](https://youtu.be/_Rl27OoCWKs)
+      - likelihood estimation: [slides](http://wwwf.imperial.ac.uk/~nkantas/likelihoodHMM.pdf) and [video](https://youtu.be/sqbst6hyX6w)
       
   - Other topics to be added soon
      - SMC sampling for fixed dimensional state spaces
