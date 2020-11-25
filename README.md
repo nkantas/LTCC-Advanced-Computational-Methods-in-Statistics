@@ -50,7 +50,7 @@ We will mainly discuss various topics and provide some some basics on theory and
       - Bayesian methods and particle MCMC: [slides](http://wwwf.imperial.ac.uk/~nkantas/BayesianHMM.pdf) and [video](https://youtu.be/_Rl27OoCWKs)
       - likelihood estimation: [slides](http://wwwf.imperial.ac.uk/~nkantas/likelihoodHMM.pdf) and [video](https://youtu.be/sqbst6hyX6w)
       
-  - SMC sampling for fixed dimensional state spaces (To be added soon)
+  - SMC sampling for fixed dimensional state spaces [slides](http://wwwf.imperial.ac.uk/~nkantas/smc_fixed_space.pdf) and [video](https://youtu.be/ocuKMctUndg)
      
   
 # Course organisation and assessment
