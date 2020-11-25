@@ -69,7 +69,7 @@ Submit in MS Teams assingment, if there are any issues email to n.kantas at impe
   
 Relevant introductory graduate textbooks and edited volumes:
 
-  - Chopin, N., & Papaspiliopoulos, O. (2020). An introduction to sequential Monte Carlo.
+  - Chopin and Papaspiliopoulos (2020). An introduction to sequential Monte Carlo, Springer Series in Statistics.
   
   - Robert and Casella (1999) Monte Carlo Statistical Methods, Springer 
   
