@@ -45,6 +45,7 @@ We will mainly discuss various topics and provide some some basics on theory and
   
   - Some extensions to the basic Particle filter 
      - adaptive resampling, resample move and auxiliary particle filters    
+     
      -[slides](http://wwwf.imperial.ac.uk/~nkantas/more_advanced_PF.pdf) and [video](https://youtu.be/n4ouaf_K2KU)
 
   - Particle Smoothing: [slides](http://wwwf.imperial.ac.uk/~nkantas/Particle_Smoothing.pdf) and [video](https://youtu.be/-1XeSWNOuRk)
