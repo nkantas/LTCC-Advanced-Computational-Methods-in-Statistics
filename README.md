@@ -3,10 +3,10 @@ This course will provide an overview of Monte Carlo methods when used for proble
 
 Keywords: Simulation, Variance reduction, Monte Carlo methods, Importance Sampling, Markov Chain Monte Carlo, Sequential Monte Carlo
 
-This course is under construction and is meant to be delivered in Oct 2020 for [LTCC](http://www.ltcc.ac.uk/). Here is the official link of the course: http://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/
+Part of the material below was delivered in Oct 2020 for [LTCC](http://www.ltcc.ac.uk/). Here is the official link of the course: http://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/
 
  
-Immediately below you can find the course outline together the with links to slides and video-lectures. I will try to list all the video lectures in this [playlist](https://www.youtube.com/playlist?list=PLnLW5bw8rfk3Tt4K8YrH7tPyLH9XKzGo2). At the bottom of this page you can find more details on assessment, reading list, prerequisites, format etc.
+Immediately below you can find the course outline together the with links to slides and video-lectures. I have listed all the video lectures in this [playlist](https://www.youtube.com/playlist?list=PLnLW5bw8rfk3Tt4K8YrH7tPyLH9XKzGo2). At the bottom of this page you can find more details on assessment, reading list, prerequisites, format etc.
 
 # Introduction
 
@@ -42,6 +42,10 @@ We will mainly discuss various topics and provide some some basics on theory and
   - Sequential Importance sampling: [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc3.pdf) and [video](https://youtu.be/zMIdR_Df7oQ)
   
   - Introduction to Particle filtering: [slides](http://wwwf.imperial.ac.uk/~nkantas/Intro_PF.pdf) and [video](https://youtu.be/Vkc3lqs1YQo)
+  
+  - Some extensions to the basic Particle filter 
+     - adaptive resampling, resample move and auxiliary particle filters    
+     -[slides](http://wwwf.imperial.ac.uk/~nkantas/more_advanced_PF.pdf) and [video](https://youtu.be/n4ouaf_K2KU)
 
   - Particle Smoothing: [slides](http://wwwf.imperial.ac.uk/~nkantas/Particle_Smoothing.pdf) and [video](https://youtu.be/-1XeSWNOuRk)
   
