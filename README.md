@@ -16,7 +16,7 @@ We will split the introduction into two parts:
 
 - Basic Indirect Sampling methods (Rejection Sampling and Importance Sampling)  [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc2.pdf) and [video](https://www.youtube.com/watch?v=m5Nt3GQFj3Y)
 
-# Markov Chain Monte Carlo
+# Markov Chain Monte Carlo (MCMC)
 
 We will mainly discuss various topics and provide some some basics on theory and practice.
 
@@ -54,7 +54,7 @@ We will mainly discuss various topics and provide some some basics on theory and
       - Bayesian methods and particle MCMC: [slides](http://wwwf.imperial.ac.uk/~nkantas/BayesianHMM.pdf) and [video](https://youtu.be/_Rl27OoCWKs)
       - likelihood estimation: [slides](http://wwwf.imperial.ac.uk/~nkantas/likelihoodHMM.pdf) and [video](https://youtu.be/sqbst6hyX6w)
       
-  - SMC sampling for fixed dimensional state spaces [slides](http://wwwf.imperial.ac.uk/~nkantas/smc_fixed_space.pdf) and [video](https://youtu.be/ocuKMctUndg)
+  - SMC sampling for fixed dimensional state spaces: [slides](http://wwwf.imperial.ac.uk/~nkantas/smc_fixed_space.pdf) and [video](https://youtu.be/ocuKMctUndg)
      
   
 # Course organisation and assessment
