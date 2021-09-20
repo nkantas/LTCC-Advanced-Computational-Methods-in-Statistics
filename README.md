@@ -5,6 +5,8 @@ Keywords: Simulation, Variance reduction, Monte Carlo methods, Importance Sampli
 
 Part of the material below was delivered in Oct 2020 for [LTCC](http://www.ltcc.ac.uk/). Here is the official link of the course: http://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/
 
+The lecture notes can be found [here](advanced_simulation_notes_ltcc.pdf) and the Matlab code used in the examples is provided above. 
+
 Immediately below you can find the course outline together the with links to slides and video-lectures. I have listed all the video lectures in this [playlist](https://www.youtube.com/playlist?list=PLnLW5bw8rfk3Tt4K8YrH7tPyLH9XKzGo2). At the bottom of this page you can find more details on assessment, reading list, prerequisites, format etc.
 
 # Introduction
