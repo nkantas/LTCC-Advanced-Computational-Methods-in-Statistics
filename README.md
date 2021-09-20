@@ -5,7 +5,6 @@ Keywords: Simulation, Variance reduction, Monte Carlo methods, Importance Sampli
 
 Part of the material below was delivered in Oct 2020 for [LTCC](http://www.ltcc.ac.uk/). Here is the official link of the course: http://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/
 
- 
 Immediately below you can find the course outline together the with links to slides and video-lectures. I have listed all the video lectures in this [playlist](https://www.youtube.com/playlist?list=PLnLW5bw8rfk3Tt4K8YrH7tPyLH9XKzGo2). At the bottom of this page you can find more details on assessment, reading list, prerequisites, format etc.
 
 # Introduction
@@ -59,15 +58,31 @@ We will mainly discuss various topics and provide some some basics on theory and
   
 # Course organisation and assessment
 
+## Delivery
+
+The course will be delivered in hybrid format, both live and streamed via Zoom. 
+
+The lecture room is Room 140, Huxley Building, Imperial College London, South Kensington Campus
+
+For the streaming please visit:
+https://imperial-ac-uk.zoom.us/j/93135172628?pwd=cUR3aHpsZFZUblV3S0RXdUZZS2tCZz09
+<!---Meeting ID: 931 3517 2628
+Passcode: CmnD?4 -->
+
+Registration is compulsory, please vist http://www.ltcc.ac.uk/registration/
+
+
 ## Coursework
 
-Coursework Instructions [slides](http://wwwf.imperial.ac.uk/~nkantas/Coursework.pdf)
+You may find the 2020 coursework instructions [here](http://wwwf.imperial.ac.uk/~nkantas/Coursework.pdf)
 
-Deadline: around 8 December (about a month)
+For the 2021 assessment more details will appear here soon. 
+
+<!---Deadline: around 8 December (about a month)
 
 Page limit: 10 pages, recommended length around 6-8 pages
 
-Submit in MS Teams assingment, if there are any issues email to n.kantas at imperial.ac.uk _*using subject: LTCC coursework submission*_
+Submit in MS Teams assingment, if there are any issues email to n.kantas at imperial.ac.uk _*using subject: LTCC coursework submission*_ -->
   
 ## References   
   
