@@ -1,13 +1,14 @@
-# LTCC Advanced Computational Methods in Statistics
+# Advanced Computational Methods in Statistics
+
 This course will provide an overview of Monte Carlo methods when used for problems in Statistics. After an introduction to simulation, its purpose and challenges, we will cover in more detail Importance Sampling, Markov Chain Monte Carlo and Sequential Monte Carlo. Whilst the main focus will be on the methodology and its relevance to applications, we will often mention relevant theoretical results and their importance for problems in practice. 
 
 Keywords: Simulation, Variance reduction, Monte Carlo methods, Importance Sampling, Markov Chain Monte Carlo, Sequential Monte Carlo
 
-Part of the material below was delivered in Oct 2020 for [LTCC](http://www.ltcc.ac.uk/). Here is the official link of the course: http://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/
+Part of the material below was delivered in Oct 2020 and Oct 2021 for [LTCC](http://www.ltcc.ac.uk/). Here is the official link of the course: http://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/
 
 The lecture notes can be found [here](advanced_simulation_notes_ltcc.pdf) and the Matlab code used in the examples is provided above. 
 
-Immediately below you can find the course outline together the with links to slides and video-lectures. I have listed all the video lectures in this [playlist](https://www.youtube.com/playlist?list=PLnLW5bw8rfk3Tt4K8YrH7tPyLH9XKzGo2). At the bottom of this page you can find more details on assessment, reading list, prerequisites, format etc.
+Immediately below you can find the course outline together the with links to slides and video-lectures (~20hrs). I have listed all the video lectures in this [playlist](https://www.youtube.com/playlist?list=PLnLW5bw8rfk3Tt4K8YrH7tPyLH9XKzGo2). At the bottom of this page you can find more details on assessment, reading list, prerequisites, delivery format for the LTCC course.
 
 # Introduction
 
@@ -58,7 +59,7 @@ We will mainly discuss various topics and provide some some basics on theory and
   - SMC sampling for fixed dimensional state spaces: [slides](http://wwwf.imperial.ac.uk/~nkantas/smc_fixed_space.pdf) and [video](https://youtu.be/ocuKMctUndg)
      
   
-# Course organisation and assessment
+# LTCC Course organisation and assessment
 
 ## Delivery
 
@@ -127,7 +128,7 @@ For you convenience i am listing the slides used in previous years. You might no
 
 - There will be optional exercises or small courseworks posed as quizes or homeworks. There will be no separate problem sheets. Some problems will require the use of some programming.
 
-- Lecture/computer session/tutorial/discussion hours split: 10/0 /0 /0 /0
+- Lecture/computer session/tutorial/discussion hours split: 10/ 0 /0 /0 
 
 ## Lecturer contact details:
 
