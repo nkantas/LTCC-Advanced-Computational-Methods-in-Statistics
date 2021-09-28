@@ -92,13 +92,19 @@ Relevant introductory graduate textbooks and edited volumes:
 
   - Chopin and Papaspiliopoulos (2020). An introduction to sequential Monte Carlo, Springer Series in Statistics.
   
-  - Robert and Casella (1999) Monte Carlo Statistical Methods, Springer 
+  - R. Douc, E. Moulines, & D. S. Stoffer (2014). Nonlinear Time Series Theory, Methods and Applications with R Examples, CRC Press.
   
-  - Liu (2001) Monte Carlo strategies in scientific computing, Springer.
+  - S. Sarkka (2013) Bayesian filtering and smoothing, CUP Cambridge.  
+  
+  - Cappé, O., Moulines, E. and Rydén, T. (2005). Inference in Hidden Markov Models. New York: Springer-Verlag. 
   
   - Doucet, de Freitas, Gordon (2001) Sequential Monte Carlo Methods in Practice, Springer.
+
+  - Liu (2001) Monte Carlo strategies in scientific computing, Springer.
   
-  - Gillks, Richardson, Spiegelhalter (1996) Markov Chain Monte Carlo in Practice, Chapman Hall
+  - Robert and Casella (1999) Monte Carlo Statistical Methods, Springer. 
+  
+  - Gillks, Richardson, Spiegelhalter (1996) Markov Chain Monte Carlo in Practice, Chapman Hall.
 
 <!---## Older lecture slides
 
