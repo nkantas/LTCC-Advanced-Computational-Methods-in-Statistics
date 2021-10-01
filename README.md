@@ -31,7 +31,7 @@ We will mainly discuss various topics and provide some some basics on theory and
 - Theoretical topics
   - Understanding MCMC from basics of Markov Chain theory
   - Diffusions, MCMC and the 0.234 rule of thumb
-  - [video](https://youtu.be/5pF8VmJqtak)  and [slides](slides/mcmc_theory.pdf) and [scribles](http://wwwf.imperial.ac.uk/~nkantas/characterisation_of_pi.pdf)
+  - [video](https://youtu.be/5pF8VmJqtak)  and [slides](slides/mcmc_theory.pdf) and [scribles](slides/characterisation_of_pi.pdf)
    
 # Hidden Markov models and the filtering problem
 
