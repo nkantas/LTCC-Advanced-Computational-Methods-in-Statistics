@@ -14,9 +14,9 @@ Immediately below you can find the course outline together the with links to sli
 
 We will split the introduction into two parts:
 
-- Introduction to Monte Carlo  [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc.pdf) and [video](https://www.youtube.com/watch?v=uqDItPClDiM)
+- Introduction to Monte Carlo  [slides](slides/intro_mc.pdf) and [video](https://www.youtube.com/watch?v=uqDItPClDiM)
 
-- Basic Indirect Sampling methods (Rejection Sampling and Importance Sampling)  [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc2.pdf) and [video](https://www.youtube.com/watch?v=m5Nt3GQFj3Y)
+- Basic Indirect Sampling methods (Rejection Sampling and Importance Sampling)  [slides](slides/intro_mc2.pdf) and [video](https://www.youtube.com/watch?v=m5Nt3GQFj3Y)
 
 # Markov Chain Monte Carlo (MCMC)
 
