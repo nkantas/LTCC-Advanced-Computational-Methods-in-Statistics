@@ -24,39 +24,39 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 - Introduction to Markov Chain Monte Carlo 
   - Metropolis-Hastings, Gibbs sampling, diagnostics 
-  - [video](https://youtu.be/gCbzRfAA70g) and [slides](http://wwwf.imperial.ac.uk/~nkantas/mcmc_intro.pdf)   
+  - [video](https://youtu.be/gCbzRfAA70g) and [slides](slides/mcmc_intro.pdf)   
 - Some more methodology 
   - Computing the normalising constant, Adaptive MCMC, Pseudo marginal MCMC
-  - [video](https://youtu.be/M_R-IiiSF4Q) and [slides](http://wwwf.imperial.ac.uk/~nkantas/mcmc_extensions.pdf)
+  - [video](https://youtu.be/M_R-IiiSF4Q) and [slides](slides/mcmc_extensions.pdf)
 - Theoretical topics
   - Understanding MCMC from basics of Markov Chain theory
   - Diffusions, MCMC and the 0.234 rule of thumb
-  - [video](https://youtu.be/5pF8VmJqtak)  and [slides](http://wwwf.imperial.ac.uk/~nkantas/mcmc_theory.pdf) and [scribles](http://wwwf.imperial.ac.uk/~nkantas/characterisation_of_pi.pdf)
+  - [video](https://youtu.be/5pF8VmJqtak)  and [slides](slides/mcmc_theory.pdf) and [scribles](http://wwwf.imperial.ac.uk/~nkantas/characterisation_of_pi.pdf)
    
 # Hidden Markov models and the filtering problem
 
-- Hidden Markov models and filtering: [slides](http://wwwf.imperial.ac.uk/~nkantas/HMMs_Filtering.pdf) and [video](https://youtu.be/GnlWK1erBmc)
+- Hidden Markov models and filtering: [slides](slides/HMMs_Filtering.pdf) and [video](https://youtu.be/GnlWK1erBmc)
 
-- The Kalman filter and extensions: [slides](http://wwwf.imperial.ac.uk/~nkantas/Kalman.pdf) and [video](https://youtu.be/g6h3gCp2tcM)
+- The Kalman filter and extensions: [slides](slides/Kalman.pdf) and [video](https://youtu.be/g6h3gCp2tcM)
 
 # Sequential Monte Carlo (SMC)
   
-  - Sequential Importance sampling: [slides](http://wwwf.imperial.ac.uk/~nkantas/intro_mc3.pdf) and [video](https://youtu.be/MU0QnWU9ULM)
+  - Sequential Importance sampling: [slides](slides/intro_mc3.pdf) and [video](https://youtu.be/MU0QnWU9ULM)
   
-  - Introduction to Particle filtering: [slides](http://wwwf.imperial.ac.uk/~nkantas/Intro_PF.pdf) and [video](https://youtu.be/Vkc3lqs1YQo)
+  - Introduction to Particle filtering: [slides](slides/Intro_PF.pdf) and [video](https://youtu.be/Vkc3lqs1YQo)
   
   - Some extensions to the basic Particle filter 
      - adaptive resampling, resample move and auxiliary particle filters   
-     - [slides](http://wwwf.imperial.ac.uk/~nkantas/more_advanced_pf.pdf) and [video](https://youtu.be/n4ouaf_K2KU)
+     - [slides](slides/more_advanced_pf.pdf) and [video](https://youtu.be/n4ouaf_K2KU)
 
-  - Particle Smoothing: [slides](http://wwwf.imperial.ac.uk/~nkantas/Particle_Smoothing.pdf) and [video](https://youtu.be/-1XeSWNOuRk)
+  - Particle Smoothing: [slides](slides/Particle_Smoothing.pdf) and [video](https://youtu.be/-1XeSWNOuRk)
   
   - Parameter estimation methods for static parameters of Hidden Markov models
   
-      - Bayesian methods and particle MCMC: [slides](http://wwwf.imperial.ac.uk/~nkantas/BayesianHMM.pdf) and [video](https://youtu.be/_Rl27OoCWKs)
-      - likelihood estimation: [slides](http://wwwf.imperial.ac.uk/~nkantas/likelihoodHMM.pdf) and [video](https://youtu.be/sqbst6hyX6w)
+      - Bayesian methods and particle MCMC: [slides](slides/BayesianHMM.pdf) and [video](https://youtu.be/_Rl27OoCWKs)
+      - likelihood estimation: [slides](slides/likelihoodHMM.pdf) and [video](https://youtu.be/sqbst6hyX6w)
       
-  - SMC sampling for fixed dimensional state spaces: [slides](http://wwwf.imperial.ac.uk/~nkantas/smc_fixed_space.pdf) and [video](https://youtu.be/ocuKMctUndg)
+  - SMC sampling for fixed dimensional state spaces: [slides](slides/smc_fixed_space.pdf) and [video](https://youtu.be/ocuKMctUndg)
      
   
 # LTCC Course organisation and assessment
