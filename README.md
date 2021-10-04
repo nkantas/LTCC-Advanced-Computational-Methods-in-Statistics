@@ -80,7 +80,7 @@ Lecture Recordings can be found below:
 
 -Lecture 2-5: tba
 
-Note there will be significant overlap with linked videos above, and my recommendation is to use the ones above when a large part of the lecture is viewed online.
+Note there will be significant overlap with linked videos above, and my recommendation is to use the pre-recorded ones linked above with the slides when a large part of the lecture is viewed online.
 
 ## Coursework
 
