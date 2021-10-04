@@ -77,6 +77,7 @@ Registration is compulsory, please vist http://www.ltcc.ac.uk/registration/
 Lecture Recordings can be found below:
 
 -Lecture 1: 4 oct, link [here](http://wwwf.imperial.ac.uk/~nkantas/zoom_ltcc_recording_1.mp4)
+
 -Lecture 2-5: tba
 
 Note there will be significant overlap with linked videos above, and my recommendation is to use the ones above when a large part of the lecture is viewed online.
