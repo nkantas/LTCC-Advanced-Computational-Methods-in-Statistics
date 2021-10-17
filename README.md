@@ -74,13 +74,7 @@ Passcode: CmnD?4 -->
 
 Registration is compulsory, please vist http://www.ltcc.ac.uk/registration/
 
-Lecture Recordings can be found below:
-
--Lecture 1: 4 oct, link [here](http://wwwf.imperial.ac.uk/~nkantas/zoom_ltcc_recording_1.mp4)
-
--Lecture 2: 11 oct, link [here](http://wwwf.imperial.ac.uk/~nkantas/zoom_ltcc_recording2.mp4)
-
--Lecture 3-5: tba
+Lecture Recordings are available upon request (due to limited file size hosting capacity).
 
 Note there will be significant overlap with linked videos above, and my recommendation is to use the pre-recorded ones linked above with the slides when a large part of the lecture is viewed online.
 
