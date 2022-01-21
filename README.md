@@ -70,13 +70,15 @@ The lecture room is Room 140, Huxley Building, Imperial College London, South Ke
 <!For the streaming please visit:
 https://imperial-ac-uk.zoom.us/j/93135172628?pwd=cUR3aHpsZFZUblV3S0RXdUZZS2tCZz09
 ---Meeting ID: 931 3517 2628
-Passcode: CmnD?4 -->
-
-Registration is compulsory, please vist http://www.ltcc.ac.uk/registration/
+Passcode: CmnD?4 
 
 Lecture Recordings are available upon request (due to limited file size hosting capacity).
 
 Note there will be significant overlap with linked videos above, and my recommendation is to use the pre-recorded ones linked above with the slides when a large part of the lecture is viewed online.
+
+-->
+
+Registration is compulsory, please vist http://www.ltcc.ac.uk/registration/
 
 ## Coursework
 
