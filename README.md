@@ -4,7 +4,7 @@ This course will provide an overview of Monte Carlo methods when used for proble
 
 Keywords: Simulation, Variance reduction, Monte Carlo methods, Importance Sampling, Markov Chain Monte Carlo, Sequential Monte Carlo, Particle filters, Stochastic filtering, Hidden Markov models.
 
-Part of the material below was delivered in Oct 2020 and Oct 2021 for [LTCC](http://www.ltcc.ac.uk/). Here is the official link of the course: http://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/
+Part of the material below is delivered every year as part of the London Taught Course Centre [(LTCC)](http://www.ltcc.ac.uk/) for PhD students in mathematical sciences. Here is the official link of the course: http://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/
 
 The lecture notes can be found [here](advanced_simulation_notes_ltcc.pdf) and the Matlab code used in the examples is provided above. 
 
@@ -65,7 +65,7 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 The course will be delivered in person at Hardy room in De Morgan House every Monday 10:50-12:50 from 7 November to 5 December 2022.
 
-<!
+<!--
 The lecture room is Room 140, Huxley Building, Imperial College London, South Kensington Campus
 
 For the streaming please visit:
@@ -85,7 +85,7 @@ Registration is compulsory, please vist http://www.ltcc.ac.uk/registration/
 
 You may find the 2020 coursework instructions [here](http://wwwf.imperial.ac.uk/~nkantas/Coursework.pdf)
 
-For the 2021 assessment more details will appear here soon. 
+For the 2022 assessment more details will appear here soon. 
 
 <!---Deadline: around 8 December (about a month)
 
