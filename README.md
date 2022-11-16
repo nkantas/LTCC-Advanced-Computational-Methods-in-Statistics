@@ -63,11 +63,12 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 ## Delivery
 
-The course will be delivered in hybrid format, both live and streamed via Zoom. 
+The course will be delivered in person at Hardy room in De Morgan House every Monday 10:50-12:50 from 7 November to 5 December 2022.
 
+<!
 The lecture room is Room 140, Huxley Building, Imperial College London, South Kensington Campus
 
-<!For the streaming please visit:
+For the streaming please visit:
 https://imperial-ac-uk.zoom.us/j/93135172628?pwd=cUR3aHpsZFZUblV3S0RXdUZZS2tCZz09
 ---Meeting ID: 931 3517 2628
 Passcode: CmnD?4 
