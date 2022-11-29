@@ -65,7 +65,7 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 The course will be delivered in person at Hardy room in De Morgan House every Monday 10:50-12:50 from 7 November to 5 December 2022.
 
-The rescheduled from 21/11 will take place on Monday the 12th December at Imperial College, room 144 Huxley Building, at 12-2pm.
+The rescheduled lecture from 21/11 will take place on Monday the 12th December at Imperial College, room 144 Huxley Building, at 12-2pm.
 
 Huxley Building has an entrance from 180 Queensgate. See [here](https://www.imperial.ac.uk/computing/about/getting-here/) for more details on how to get to the building and [here](https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/huxley-144/
 ) for a floorplan. Once you reach the straircase or lift head towards floor 1 at the basement.
