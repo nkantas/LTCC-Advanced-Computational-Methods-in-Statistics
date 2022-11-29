@@ -65,6 +65,13 @@ We will mainly discuss various topics and provide some some basics on theory and
 
 The course will be delivered in person at Hardy room in De Morgan House every Monday 10:50-12:50 from 7 November to 5 December 2022.
 
+The rescheduled from 21/11 will take place on Monday the 12th December at Imperial College, room 144 Huxley Building, at 12-2pm.
+
+Huxley Building has an entrance from 180 Queensgate. See [here](https://www.imperial.ac.uk/computing/about/getting-here/) for more details on how to get to the building and [here](https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/huxley-144/
+) for a floorplan. Once you reach the straircase or lift head towards floor 1 at the basement.
+
+
+
 <!--
 The lecture room is Room 140, Huxley Building, Imperial College London, South Kensington Campus
 
@@ -83,11 +90,18 @@ Registration is compulsory, please vist http://www.ltcc.ac.uk/registration/
 
 ## Coursework
 
-You may find the 2020 coursework instructions [here](http://wwwf.imperial.ac.uk/~nkantas/Coursework.pdf)
+You may find the 2022 coursework instructions [here](http://wwwf.imperial.ac.uk/~nkantas/Coursework.pdf)
 
+Deadline: around 18 January (about a month)
+
+Page limit: 10 pages, recommended length around 6-8 pages
+
+Submit by email to n.kantas at imperial.ac.uk _*using subject: LTCC coursework submission*_
+
+<!---
 For the 2022 assessment more details will appear here soon. 
 
-<!---Deadline: around 8 December (about a month)
+Deadline: around 8 December (about a month)
 
 Page limit: 10 pages, recommended length around 6-8 pages
 
